@@ -1,0 +1,13 @@
+{
+  "name": "AutoFill",
+  "version": "1.0.0",
+  "main": "autoFill.js",
+  "license": "MIT",
+  "dependencies": {
+    "@project-serum/anchor": "^0.24.2",
+    "bs58": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node  script/autoFill.js"
+  }
+}
